@@ -158,7 +158,7 @@ const PropertyDetails = () => {
                                         fontWeight={700}
                                         color="#475BE8"
                                     >
-                                        ${propertyDetails.price}
+                                         ₦{propertyDetails.price}
                                     </Typography>
                                     <Typography
                                         fontSize={14}
