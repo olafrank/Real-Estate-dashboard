@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import yariga from './yariga.svg';
+import logo from './logo.png';
+import otech from './otech.png';
 
 export {
   logo,
-  yariga,
+  otech,
 };
